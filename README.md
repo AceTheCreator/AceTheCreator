@@ -8,4 +8,6 @@ An ethustiatic and responsible fullstack javascript developer offering years of 
 - 😄 Pronouns: they/them/their
 - ⚡ Fun fact: i love coffee
 
-[![Alphabets's github stats](https://github-readme-stats.vercel.app/api?username=alphabet-codes)](https://github.com/alphabet-codes/github-readme-stats)
+[![Alphabets's github stats](https://github-readme-stats.vercel.app/api?username=alphabet-codes&show_icons=true)](https://github.com/alphabet-codes/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alphabet-codes)](https://github.com/alphabet-codes/github-readme-stats)
