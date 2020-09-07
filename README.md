@@ -4,7 +4,7 @@ An ethustiatic and responsible fullstack javascript developer offering years of 
 - 🔭 I’m currently working on so many things
 - 🌱 I’m currently learning graphQL
 - 💬 Ask me about any thing related to javascript.
-- 📫 How to reach me: https://twitter.com/aplhabet-codes
+- 📫 How to reach me: https://twitter.com/alphabet-codes
 - 😄 Pronouns: they/them/their
 - ⚡ Fun fact: i love coffee
 
