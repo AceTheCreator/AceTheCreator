@@ -1,5 +1,5 @@
    ### Hey there 👋 I'm Elegebede Azeez
-An ethustiatic and responsible fullstack javascript developer offering years of experience in demanding environments focused on producing cutting-edge systems for the web industries. Skilled in directing development with creative and performance-oriented approach. I am able to work well both in a team environment as well as using own initiative.
+An ethustiatic and responsible frontend developer offering 2+ years of experience in demanding environments focused on producing cutting-edge systems for the web industries. Skilled in directing development with creative and performance-oriented approach. I am able to work well both in a team environment as well as using own initiative.
 
 - 🔭 I’m currently working on cool stuff.
 - 🌱 I’m currently learning graphQL and Typescript
