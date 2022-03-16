@@ -5,7 +5,7 @@ I'm Elegebede Azeez. I'm an ethustiatic and responsible software engineer offeri
 - 🌱 I’m currently learning graphQL and Typescript
 - 💬 Ask me about any thing related to javascript and the web in general.
 - 📫 How to reach me: https://twitter.com/_acebuild
-- 😄 Pronouns: he/him
+- 😄 Opensource Advocate
 - ⚡ Fun fact: i love coffee
 
 
